@@ -1,0 +1,6 @@
+#+TITLE: kleisli-dev
+#+AUTHOR: Mac Radigan
+
+** an exploration of programming concepts based on Kleisli categories
+
+ # *EOF* 
